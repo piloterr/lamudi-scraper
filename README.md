@@ -217,7 +217,7 @@ Example response from the API reference, abridged — real values depend on the 
   "thumbnail": "https://img.lamudi.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJwcm9wZXJ0aWVzLzAxOTg1NDNmLTFjZTEtNzdiOS…",
   "video_url": null,
   "updated_at": null,
-  "description": "Own a Luxury Villa in Boracay!\n\nMegaworld is now taking LOIs for the Boracay Newcoast Resort Village \n\nVillas – only 23 units available!\n…",
+  "description": "Own a Luxury Villa in Boracay!\n\nMegaworld is now taking LOIs for the Boracay Newcoast Resort Village \n\nVillas, only 23 units available!\n\n…",
   "published_at": "2025-07-29T00:00:00.000Z",
   "property_type": "house",
   "virtual_tour_url": null
