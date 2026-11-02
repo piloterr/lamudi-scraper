@@ -69,7 +69,7 @@ response = requests.get(
     params={
         "query": "https://www.lamudi.com.ph/property/41032-73-626c638217d1-1d2a-1985488-907f-7802",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -290,7 +290,7 @@ response = requests.get(
     params={
         "query": "https://www.lamudi.com.ph/buy/metro-manila/makati/condo/",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
